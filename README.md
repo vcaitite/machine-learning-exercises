@@ -1,5 +1,5 @@
 <h1 align="center">
-     Fuzzy Systems Exercises</a>
+     Machine Learning Exercises</a>
 </h1>
 <p align="center"> Python scripts for solving exercises of the Machine Learning discipline of the Master's Degree in Computational Intelligence at UFMG. </p>
 
