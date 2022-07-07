@@ -14,3 +14,4 @@ Methods:
   - Random Forest
   - Gradient Tree Boosting
 
+2. TP2 - Implementation, study and application of AdaBoost algorithm. The Adaptive Boosting was applied to the Tic-Tac-Toe dataset from UCI .
