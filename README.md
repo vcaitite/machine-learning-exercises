@@ -15,3 +15,14 @@ Methods:
   - Gradient Tree Boosting
 
 2. TP2 - Implementation, study and application of AdaBoost algorithm. The Adaptive Boosting was applied to the Tic-Tac-Toe dataset from UCI .
+
+3. TP3 - Classification methods based on different principles will be used and compared in a binary classification problem of UFC fights winners.
+Methods: 
+  - Naive Bayes
+  - Decision Tree 
+  - SVM (svm with linear, sigmoid, polynomial and RBF kernels)
+  - k-NN
+  - Random Forest
+  - Gradient Tree Boosting
+  - XGBoost
+  - MLP	
